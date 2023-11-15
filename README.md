@@ -1,6 +1,6 @@
 # clase_05
 ## Persistencia
-[!Clase ](./recursos/caratulas_python.jpg)
+![Clase ](./recursos/caratulas_python.jpg)
 
 ## Proservices
 Nos han contratado para diseñar y desarrollar un sistema para la búsqueda y contratación de
